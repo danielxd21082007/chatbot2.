@@ -68,4 +68,4 @@ def get_random_pokemon_data():
     else:
         return None
 
-bot.run('MTMxOTQ1MjU4MzgyMzI4MjI1Ng.G7IiL_.ALNPrVej9SktupH2zGNj_tLlAe9cR6F_Lv0QQ0')
+bot.run('TOKEN')
